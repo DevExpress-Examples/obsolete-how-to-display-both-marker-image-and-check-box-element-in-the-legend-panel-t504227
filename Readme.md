@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MarkerAndCheckbox/Form1.cs) (VB: [Form1.vb](./VB/MarkerAndCheckbox/Form1.vb))
+<!-- default file list end -->
 # How to display both marker image and check box element in the legend panel
 
 
